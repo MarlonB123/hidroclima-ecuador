@@ -15,7 +15,7 @@ El proyecto integra las asignaturas de Desarrollo de Proyectos de Sistemas de In
 
 - Python y Google Colab
 - API Historical Weather de Open-Meteo
-- Pandas, PySpark y DuckDB
+- Pandas
 - Scikit-learn
 - Git y GitHub
 
